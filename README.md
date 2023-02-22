@@ -4,7 +4,7 @@
 camelCaseForLife
 
 OneExtraKeyPressIsFineIGuess
-but_seriously_two_per_seperator
+but_seriously_two_per_separator
 AT_LEAST_SCREAMING_SNAKE_CASE_IS_COOL
 ```
 
